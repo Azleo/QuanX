@@ -1,4 +1,4 @@
-# Az-Quan
+# QuanX
 纯自用<br>
 纯小白<br>
 啥都不懂<br>
