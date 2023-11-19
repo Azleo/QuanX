@@ -8,4 +8,4 @@
 
 [sve1r_sample](https://github.com/sve1r/Rules-For-Quantumult-X/blob/main/Sample_v1.4.0.conf) - DONE
 
-[w37fhy_sample](https://github.com/w37fhy/QuantumultX/blob/master/QuantumultX_diy.conf)
+[w37fhy_sample](https://github.com/w37fhy/QuantumultX/blob/master/QuantumultX_diy.conf) - DONE
