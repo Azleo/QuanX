@@ -14,4 +14,4 @@
 
 [limbopro_sample](https://github.com/limbopro/Profiles4limbo/blob/main/full.conf) - DONE
 
-[ddgksf2013_sample](https://github.com/ddgksf2013/Profile/blob/master/QuantumultX.conf)
+[ddgksf2013_sample](https://github.com/ddgksf2013/Profile/blob/master/QuantumultX.conf) - DONE
