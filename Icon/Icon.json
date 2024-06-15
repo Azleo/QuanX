@@ -1,0 +1,14 @@
+{
+  "name": "自用图标集-Az整理",
+  "icons": [
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png"
+    },
+    {
+      "name": "China.png",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
+    }
+  ],
+  "description": "版权: Koolson/Qure"
+}
