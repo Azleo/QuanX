@@ -2,9 +2,9 @@
 
 [official_sample_v1.0.19](https://github.com/crossutility/Quantumult-X/blob/master/sample.conf) - DONE
 
-[Orz-3_sample_20240705](https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf) - DONE
+[Orz-3_sample_20250410](https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf) - DONE
 
-[ddgksf2013_sample_20241213](https://github.com/ddgksf2013/Profile/blob/master/QuantumultX.conf) - DONE
+[ddgksf2013_sample_20250505](https://github.com/ddgksf2013/Profile/blob/master/QuantumultX.conf) - DONE
 
 [limbopro_sample_20240911](https://github.com/limbopro/Profiles4limbo/blob/main/full.conf) - DONE
 
