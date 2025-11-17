@@ -11,7 +11,6 @@ ehthumbs.db
 Desktop.ini
 
 # Linux
-# 在Linux上一般不需要，但为了完整性可以加上
 .Trash-*
 
 # 编辑器临时文件
