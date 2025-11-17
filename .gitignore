@@ -59,7 +59,6 @@ Icon[
 Network Trash Folder
 Temporary Items
 .apdisk
-
 __MACOSX
 
 #################### Editor.gitignore ####################
@@ -69,7 +68,6 @@ __MACOSX
 .Trash-*
 
 #################### Backup.gitignore ####################
-
 *.bak
 *.gho
 *.ori
