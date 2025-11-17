@@ -1,17 +1,18 @@
 #################### Custom.gitignore ####################
 
+
+#################### Git.gitignore ####################
+
 # add your custom gitignore here:
 !.gitignore
 !.gitsubmodules
-!.github
+!.github/
 
 #################### Windows.gitignore ####################
 
 # Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
+Thumbs.db*
+ehthumbs*.db
 
 # Dump file
 *.stackdump
@@ -38,8 +39,7 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
-Icon[
-]
+Icon?
 
 # Thumbnails
 ._*
@@ -61,15 +61,27 @@ Temporary Items
 .apdisk
 __MACOSX
 
+#################### Linux.gitignore ####################
+
+.Trash-*
+*~
+.nfs*
+
 #################### Editor.gitignore ####################
 
-# Linux
-# 在Linux上一般不需要，但为了完整性可以加上
-.Trash-*
+.vscode/
 
 #################### Backup.gitignore ####################
+
+# Backup and temporary files
 *.bak
 *.gho
 *.ori
 *.orig
 *.tmp
+*.log
+
+# Temporary directory
+tmp/
+temp/
+.cache/
